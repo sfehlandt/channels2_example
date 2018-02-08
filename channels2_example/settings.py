@@ -135,4 +135,4 @@ CHANNEL_LAYERS = {
         }
     },
 }
-ASGI_APPLICATION = "ias_webserver.routing.application"
+ASGI_APPLICATION = "channels2_example.routing.application"
